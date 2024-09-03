@@ -1,0 +1,35 @@
+
+Angular Learning Roadmap: Beginner to Advanced
+
+Phase 1: Getting Started with Angular
+
+1. Introduction to Angular
+2. Angular Basics
+3. Directives
+4. Pipes
+5. Services & Dependency Injection
+6. Routing & Navigation
+
+Phase 2: Intermediate Angular
+
+1. Forms in Angular
+2. HTTP Client
+3. State Management
+4. Angular Modules
+5. Component Communication
+6. Error Handling
+
+Phase 3: Advanced Angular
+
+1. Performance Optimization
+2. Advanced Angular Concepts
+3. Testing
+4. Progressive Web Apps (PWAs)
+5. Advanced RxJS
+6. Security in Angular
+
+Phase 4: Building and Deploying Angular Applications
+
+1. Building for Production
+2. Deployment
+3. Real-World Projects
